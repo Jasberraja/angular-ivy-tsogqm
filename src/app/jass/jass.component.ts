@@ -5,3 +5,4 @@ import { Component } from "@angular/core";
   templateUrl: "./jass.component.html"
 })
 export class JassComponent {}
+// own component by jasber

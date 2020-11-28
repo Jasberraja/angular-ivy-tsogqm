@@ -4,5 +4,7 @@ import { Component } from "@angular/core";
   selector: "my-jass",
   templateUrl: "./jass.component.html"
 })
-export class JassComponent {}
+export class JassComponent {
+  title = "jasberraja";
+}
 // own component by jasber
